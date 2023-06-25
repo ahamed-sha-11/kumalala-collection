@@ -424,13 +424,13 @@ footer .copyright {
     outline-offset: -7px;
     outline-style: dashed;
     z-index: 99;
-    transition-delay: 100ms;
+    
     transition: 300ms ease-in-out;
   }
  
   #navbar.active
   {
-    display: flex;
+    
     right: 0;
   }
   #navbar li
