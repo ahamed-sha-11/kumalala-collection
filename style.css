@@ -424,7 +424,8 @@ footer .copyright {
     outline-offset: -7px;
     outline-style: dashed;
     z-index: 99;
-    transition: 500ms ease-in-out;
+    transition-delay: 100ms;
+    transition: 300ms ease-in-out;
   }
  
   #navbar.active
