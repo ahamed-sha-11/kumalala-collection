@@ -16,7 +16,7 @@ if(close)
     close.addEventListener('click',()=> {
         
         nav.classList.remove('active');
-        const myTimeout = setTimeout(()=>nav.style.display="none", 50);
+        // const myTimeout = setTimeout(()=>nav.style.display="none", 50);
         
     })
 }
